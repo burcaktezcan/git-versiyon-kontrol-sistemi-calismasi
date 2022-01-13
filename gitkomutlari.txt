@@ -1,0 +1,10 @@
+git init - ilk kez proje oluştururken kullanılır
+git add <filename> dosya adi belirterek takip edilecek dosyayi versiyon kontrol sistemine ekleme
+git add .  tum dosyalari versiyon kontrol sistemine ekleme
+git commit -m 'aciklama'  commite ( yapilan degisiklige ) aciklama girme
+git status   dosyaların guncel durumunu kontrol etme
+git diff   yapilan degisiklikleri gorme
+git checkout <branchName>  branchler arasi gecis yapma
+git push   uzak sunucuya gonderme
+git pull   uzak sunucudan alabilme
+git clone  bir repoyu klonlama
