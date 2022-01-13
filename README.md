@@ -1,0 +1,1 @@
+patika.dev egitim platformundaki Visual Studio Code Kullanimi ve GIT modullerinde alinan notlar ve yapilan calismalar paylasildi.
